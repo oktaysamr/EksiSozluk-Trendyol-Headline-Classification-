@@ -1,1 +1,1 @@
-# EksiSozluk-Trendyol-Headline-Classification-
+# Sentiment Analysis Ekşisözlük Trendyol Entries
