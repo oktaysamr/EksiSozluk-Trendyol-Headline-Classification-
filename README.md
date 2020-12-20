@@ -1,1 +1,1 @@
-# Sentiment Analysis Ekşisözlük Trendyol Entries
+# Sentiment Analysis Trendyol Entries in Ekşisözlük
